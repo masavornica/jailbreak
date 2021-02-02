@@ -1,4 +1,4 @@
-# Chimera
+# JB Toolkit v14
 
 theme: jekyll-theme-slate
 license: free
